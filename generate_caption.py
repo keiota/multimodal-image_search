@@ -11,7 +11,7 @@ model_id = "Qwen/Qwen2-VL-7B-Instruct"
 model = Qwen2VLForConditionalGeneration.from_pretrained(
     model_id, torch_dtype="auto", device_map="auto"
 )
-processor = AutoProcessor.from_pretrained("Qwen/Qwen2-VL-7B-Instruct",
+processor = AutoProcessor.from_pretrained("Qwen/Qwen2-VL-2B-Instruct", #7b -> 2bに変更
     min_pixels=256 * 28 * 28,
     max_pixels=1280 * 28 * 28
 )
