@@ -1,0 +1,12 @@
+multimodalimagesearch_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-tokyo-1.oraclecloud.com))(connect_data=(service_name=gdc124890d61040_multimodalimagesearch_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+multimodalimagesearch_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-tokyo-1.oraclecloud.com))(connect_data=(service_name=gdc124890d61040_multimodalimagesearch_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+multimodalimagesearch_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-tokyo-1.oraclecloud.com))(connect_data=(service_name=gdc124890d61040_multimodalimagesearch_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+multimodalimagesearch_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-tokyo-1.oraclecloud.com))(connect_data=(service_name=gdc124890d61040_multimodalimagesearch_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+multimodalimagesearch_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-tokyo-1.oraclecloud.com))(connect_data=(service_name=gdc124890d61040_multimodalimagesearch_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
